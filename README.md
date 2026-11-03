@@ -2,7 +2,7 @@
 
 > A curated directory of free 3D printable STL models, tabletop gaming miniatures, figurines, terrains, and Patreon studio releases with pre-supported files — completely free with direct downloads.
 
-Maintained by the 3D printing community. Official archive: **[FreeSTLFiles.online](https://freestlfiles.online/)** | Telegram Community: **[@stlfree](https://t.me/stlfree)**
+Maintained by the 3D printing community. Official archive: **[FreeSTLFiles.online](https://freestlfiles.online/)** | Telegram Community: **[@freestlfilesonline](https://t.me/freestlfilesonline)**
 
 ---
 
